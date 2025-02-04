@@ -1,0 +1,9 @@
+System Check Started at 2025-02-04 14:31:49,27  
+------------------------ 
+Checking PowerShell configuration... 
+PowerShell is available on this system. 
+Check execution policy 
+PowerShell execution policy is already correctly set. 
+ 
+System is ready for diagnostics. 
+ 
